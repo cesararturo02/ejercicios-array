@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Un_programa_que_pida_al_usuario_5_numeros_reales</RootNamespace>
+  </PropertyGroup>
+
+</Project>

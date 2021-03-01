@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_10_numeros_y_luego_calcule_y_muestre_cual_es_el_mayor</RootNamespace>
+  </PropertyGroup>
+
+</Project>
